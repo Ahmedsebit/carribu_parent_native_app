@@ -1,0 +1,4 @@
+# Copy to local.properties and adjust for this machine.
+sdk.dir=C\:\\Users\\ahmedsebit\\AppData\\Local\\Android\\Sdk
+API_BASE_URL=https\://carribubackend-production.up.railway.app/api/
+MAPS_API_KEY=
